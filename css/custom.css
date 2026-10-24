@@ -1,3 +1,7 @@
+/* 这一行是去国内饿了么服务器下载字体，不用翻墙 */
+@import url('https://npm.elemecdn.com/lxgw-neoxihei-webfont@1.0.0/style.css');
+
+/* 这一行是让全站所有文字都用这个字体 */
 body,
 p,
 span,

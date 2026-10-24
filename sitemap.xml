@@ -136,6 +136,15 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://myrvyn.github.io/posts/56032921.html</loc>
+    
+    <lastmod>2026-10-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://myrvyn.github.io/</loc>
@@ -144,6 +153,27 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://myrvyn.github.io/tags/Hexo/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://myrvyn.github.io/tags/Fomalhaut/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://myrvyn.github.io/tags/%E6%A0%87%E7%AD%BE/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://myrvyn.github.io/tags/python/</loc>
@@ -160,5 +190,12 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://myrvyn.github.io/categories/%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
