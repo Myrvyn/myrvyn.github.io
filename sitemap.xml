@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://myrvyn.github.io/posts/7569c394.html</loc>
-    
-    <lastmod>2026-11-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://myrvyn.github.io/posts/99832f47.html</loc>
     
     <lastmod>2026-10-26</lastmod>
@@ -157,7 +148,7 @@
 
   <url>
     <loc>https://myrvyn.github.io/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -165,35 +156,35 @@
   
   <url>
     <loc>https://myrvyn.github.io/tags/CTF/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://myrvyn.github.io/tags/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://myrvyn.github.io/tags/python/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://myrvyn.github.io/tags/%E5%AD%A6%E4%B9%A0%E5%A4%8D%E7%9B%98/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://myrvyn.github.io/tags/Hexo/</loc>
-    <lastmod>2026-11-07</lastmod>
+    <lastmod>2026-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
